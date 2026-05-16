@@ -1,0 +1,13 @@
+node_modules
+*.log
+.DS_Store
+# Capacitor build outputs
+android/build
+android/app/build
+android/.gradle
+android/local.properties
+android/captures
+# IDE
+.idea
+.vscode
+*.iml
